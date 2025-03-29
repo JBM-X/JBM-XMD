@@ -9,7 +9,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=JBM+X𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+JBTECH)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/ibi3x2.jpg" width="500" height="500" />
 
@@ -22,8 +22,8 @@
 
 
 <p align="center">
-<a href="https://github.com/ENZOTECH2/followers"><img title="Followers" src="https://img.shields.io/github/followers/ENZOTECH2?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Jacob musyoka/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jacob musyoka?color=blue&style=flat-square"></a>
+<a href="https://github.com/JBM-X/JBM-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/ENZOTECH2/ENZO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/ENZOTECH2/ENZO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ENZOTECH2/ENZO-MD?style=flat-square&color=blue"></a>
 <a href="https://github.com/ENZOTECH2/ENZO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
