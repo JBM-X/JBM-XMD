@@ -1,6 +1,6 @@
 
 
-<img src="https://files.catbox.moe/ibi3x2.jpg" height="90" width="100%">
+
 
 ## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
 
@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://i.ibb.co/PwHcqYz/IMG-20241211-WA0065.jpg" width="500" height="500" />
+<p align="centre"><img src="https://files.catbox.moe/ibi3x2.jpg" width="500" height="500" />
 
 
 
