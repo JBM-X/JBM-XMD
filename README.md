@@ -1,6 +1,6 @@
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://files.catbox.moe/ibi3x2.jpg" height="90" width="100%">
 
 ## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
 
@@ -14,9 +14,6 @@
 <p align="centre"><img src="https://i.ibb.co/PwHcqYz/IMG-20241211-WA0065.jpg" width="500" height="500" />
 
 
-
-
-<a><img src='https://files.catbox.moe/zacre9.jpg'/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
