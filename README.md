@@ -21,7 +21,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐄𝐍𝐙𝐎 𝐌𝐃 𝐁𝐎𝐓 
+## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 JBM-XMD 𝐁𝐎𝐓 
 
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 
 
-## HOW TO GET ENZO MD BOT
+## HOW TO GET JBM-XMD BOT
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -100,7 +100,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT ENZOTECH HERE
+## CONTACT JBM TECH HERE
   DM FOR SERIOUS BUSINESS
 
    <a href="https://github.com/ENZOTECH2/ENZO-INFO"><img title="CONTACT-ENZO" src="https://img.shields.io/badge/CONTACT-ENZO-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
